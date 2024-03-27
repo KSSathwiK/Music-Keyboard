@@ -1,0 +1,160 @@
+body {
+    text-align: center;
+    background-color: bisque;
+}
+
+h1 {
+    font-size: 3rem;
+    color: cyan;
+    font-family: "Arvo",cursive;
+    text-shadow: 5px 0 cadetblue;
+}
+
+footer {
+    color:darkcyan;
+    font-family: "Arvo",cursive;
+}
+
+.a1 {
+    background-color: black;
+    color: white;
+}
+
+.a2 {
+    background-color: black;
+    color: white;
+}
+
+.a3 {
+    background-color: black;
+    color: white;
+}
+
+.a4 {
+    background-color: white;
+    color: black;
+}
+
+.a5 {
+    background-color: black;
+    color: white;
+}
+
+.a6 {
+    background-color: black;
+    color: white;
+}
+
+.a7 {
+    background-color: black;
+    color: white;
+}
+
+.a8 {
+    background-color: white;
+    color: black;
+}
+
+.a9 {
+    background-color: black;
+    color: white;
+}
+
+.a10 {
+    background-color: black;
+    color: white;
+}
+
+.a11 {
+    background-color: black;
+    color: white;
+}
+
+.a12 {
+    background-color: white;
+    color: black;
+}
+
+.a13 {
+    background-color: black;
+    color: white;
+}
+
+.a14 {
+    background-color: black;
+    color: white;
+}
+
+.a15 {
+    background-color: black;
+    color: white;
+}
+
+.a16 {
+    background-color: white;
+    color: black;
+}
+
+.a17 {
+    background-color: black;
+    color: white;
+}
+
+.a18 {
+    background-color: black;
+    color: white;
+}
+
+.a19 {
+    background-color: black;
+    color: white;
+}
+
+.a20 {
+    background-color: white;
+    color: black;
+}
+
+.a21 {
+    background-color: black;
+    color: white;
+}
+
+.a22 {
+    background-color: black;
+    color: white;
+}
+
+.a23 {
+    background-color: black;
+    color: white;
+}
+
+.a24 {
+    background-color: white;
+    color: black;
+}
+
+.set {
+    margin: 10% auto;
+}
+
+.key {
+    outline: none;
+    border: 5px solid #283149;
+    font-size: 2rem;
+    font-family: "Arvo",cursive;
+    list-style: 2;
+    font-weight: 900;
+    border-radius: 10px;
+    display: inline-block;
+    width: 50px;
+    height : 300px;
+    text-align: center;
+    margin: 2px;
+}
+
+.pressed {
+    box-shadow: 0 3px 4px 0 yellow;
+    opacity: 0.5;
+}
